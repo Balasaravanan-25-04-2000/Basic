@@ -1,7 +1,7 @@
-#To find the cube root of any Natural number
+#To find the cube of any Natural number
 x = int(input('Enter a number:'))
 y = x**3
-print('The Cube root of', x ,'is',y,'.')
+print('The Cube of', x ,'is',y,'.')
 #Output:
 #Enter a number:5
-#The Cube root of 5 is 125 .
+#The Cube of 5 is 125 .
